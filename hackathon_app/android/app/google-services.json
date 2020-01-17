@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "407013612324",
+    "firebase_url": "https://sih-hacakthon.firebaseio.com",
+    "project_id": "sih-hacakthon",
+    "storage_bucket": "sih-hacakthon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407013612324:android:4d50e2a8d5e5fe0660f1b1",
+        "android_client_info": {
+          "package_name": "com.hrushi.hackathon_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407013612324-evreerogmkuqdv5arnotdilbfok8brlp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCIGuFhoQMGFGuuy3-9d3jHij7-hXC7FU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407013612324-evreerogmkuqdv5arnotdilbfok8brlp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
